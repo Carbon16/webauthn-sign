@@ -1,4 +1,4 @@
-# webauthnsign
+# webauthn-sign
 
 **Sign arbitrary hashes with a WebAuthn passkey.**
 
